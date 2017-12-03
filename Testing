@@ -3,7 +3,8 @@ public Testing
   public static void main(String[] args)
   {
     System.out.println("Put something in here");
+    System.out.println("kfhfkhf");
     
-    
-  }
- }
+  }  // End of main method
+  
+ }  // End of class
